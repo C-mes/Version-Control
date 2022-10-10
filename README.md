@@ -1,3 +1,3 @@
 # Version-Control
-this file takes a name
-and prints hello name inputed
+this program takes a name from user input
+then prints "Hello " + the user inputed name
